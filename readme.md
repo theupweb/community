@@ -4,7 +4,11 @@ Here are the Guidelines for the first members of the community, collaborators, j
 
 ## Getting Started
 
+* Ask for Help
+  - Add an issue here and get a green mark for today on your Github Profile!
+  - Community will solve your issues and reach you out!
 * Core team participation
+  - Contribute to our core team and get recognized
 * Community Participation
 * Opensource
 * Contribution
